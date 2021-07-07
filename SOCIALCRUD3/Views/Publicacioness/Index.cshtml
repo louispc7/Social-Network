@@ -1,0 +1,65 @@
+﻿@model IEnumerable<SOCIALCRUD3.Models.PublicacionesS>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.IdUsuario)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Fecha)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.IdTypepost)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Text)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.IdImagen)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.IdPostshared)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.IdUsuario)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Fecha)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.IdTypepost)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Text)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.IdImagen)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.IdPostshared)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.IdPublicacion">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.IdPublicacion">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.IdPublicacion">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
