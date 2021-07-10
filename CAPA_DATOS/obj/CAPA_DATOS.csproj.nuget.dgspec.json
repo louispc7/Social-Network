@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hache\\Source\\Repos\\louispc7\\Social-Network\\CAPA_DATOS\\CAPA_DATOS.csproj": {}
+    "C:\\Users\\hache\\source\\repos\\SOCIALCRUD3\\CAPA_DATOS\\CAPA_DATOS.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hache\\Source\\Repos\\louispc7\\Social-Network\\CAPA_DATOS\\CAPA_DATOS.csproj": {
+    "C:\\Users\\hache\\source\\repos\\SOCIALCRUD3\\CAPA_DATOS\\CAPA_DATOS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hache\\Source\\Repos\\louispc7\\Social-Network\\CAPA_DATOS\\CAPA_DATOS.csproj",
+        "projectUniqueName": "C:\\Users\\hache\\source\\repos\\SOCIALCRUD3\\CAPA_DATOS\\CAPA_DATOS.csproj",
         "projectName": "CAPA_DATOS",
-        "projectPath": "C:\\Users\\hache\\Source\\Repos\\louispc7\\Social-Network\\CAPA_DATOS\\CAPA_DATOS.csproj",
+        "projectPath": "C:\\Users\\hache\\source\\repos\\SOCIALCRUD3\\CAPA_DATOS\\CAPA_DATOS.csproj",
         "packagesPath": "C:\\Users\\hache\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hache\\Source\\Repos\\louispc7\\Social-Network\\CAPA_DATOS\\obj\\",
+        "outputPath": "C:\\Users\\hache\\source\\repos\\SOCIALCRUD3\\CAPA_DATOS\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
