@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hache\\source\\repos\\SOCIALCRUD3\\SOCIALCRUD3\\SOCIALCRUD3.csproj": {}
+    "C:\\Users\\hache\\Source\\Repos\\louispc7\\Social-Network\\SOCIALCRUD3\\SOCIALCRUD3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hache\\source\\repos\\SOCIALCRUD3\\SOCIALCRUD3\\SOCIALCRUD3.csproj": {
+    "C:\\Users\\hache\\Source\\Repos\\louispc7\\Social-Network\\SOCIALCRUD3\\SOCIALCRUD3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hache\\source\\repos\\SOCIALCRUD3\\SOCIALCRUD3\\SOCIALCRUD3.csproj",
+        "projectUniqueName": "C:\\Users\\hache\\Source\\Repos\\louispc7\\Social-Network\\SOCIALCRUD3\\SOCIALCRUD3.csproj",
         "projectName": "SOCIALCRUD3",
-        "projectPath": "C:\\Users\\hache\\source\\repos\\SOCIALCRUD3\\SOCIALCRUD3\\SOCIALCRUD3.csproj",
+        "projectPath": "C:\\Users\\hache\\Source\\Repos\\louispc7\\Social-Network\\SOCIALCRUD3\\SOCIALCRUD3.csproj",
         "packagesPath": "C:\\Users\\hache\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hache\\source\\repos\\SOCIALCRUD3\\SOCIALCRUD3\\obj\\",
+        "outputPath": "C:\\Users\\hache\\Source\\Repos\\louispc7\\Social-Network\\SOCIALCRUD3\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KeCD7ge+Ok07nrsvkNKiXGn2KYjZ+ST3fgG3DR6uyopET7T0cUIiHw/VvF3DwHpID/N3KQKYLVpCbfiIWYTZiw==",
+  "dgSpecHash": "pJ6IF39aKN26dyj8grUTHWrAnE2nZ6g9nI80Tc30MhDGW8tQaUp3Lo24NueQ4oTg/RlhxUFUrBOFSO+Owg8G4g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\hache\\source\\repos\\SOCIALCRUD3\\SOCIALCRUD3\\SOCIALCRUD3.csproj",
+  "projectFilePath": "C:\\Users\\hache\\Source\\Repos\\louispc7\\Social-Network\\SOCIALCRUD3\\SOCIALCRUD3.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hache\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\hache\\.nuget\\packages\\microsoft.aspnetcore.razor\\2.2.0\\microsoft.aspnetcore.razor.2.2.0.nupkg.sha512",
