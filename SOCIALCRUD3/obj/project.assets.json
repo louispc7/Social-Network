@@ -8474,23 +8474,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\hache\\.nuget\\packages\\": {},
+    "C:\\Users\\Windows\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hache\\source\\repos\\SOCIALCRUD3\\SOCIALCRUD3\\SOCIALCRUD3.csproj",
+      "projectUniqueName": "C:\\Users\\Windows\\Desktop\\Git proyecto\\Social-Network\\SOCIALCRUD3\\SOCIALCRUD3.csproj",
       "projectName": "SOCIALCRUD3",
-      "projectPath": "C:\\Users\\hache\\source\\repos\\SOCIALCRUD3\\SOCIALCRUD3\\SOCIALCRUD3.csproj",
-      "packagesPath": "C:\\Users\\hache\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hache\\source\\repos\\SOCIALCRUD3\\SOCIALCRUD3\\obj\\",
+      "projectPath": "C:\\Users\\Windows\\Desktop\\Git proyecto\\Social-Network\\SOCIALCRUD3\\SOCIALCRUD3.csproj",
+      "packagesPath": "C:\\Users\\Windows\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Windows\\Desktop\\Git proyecto\\Social-Network\\SOCIALCRUD3\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\hache\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Windows\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -8550,7 +8550,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -9,5 +9,7 @@ namespace SOCIALCRUD3.Models
     {
         public int IdGrupo { get; set; }
         public string TipoGrupo { get; set; }
+
+        public string NombreGrupo { get; set; }
     }
 }

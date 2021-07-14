@@ -53,7 +53,7 @@ namespace SOCIALCRUD3.Controllers
         // more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("IdGrupo,TipoGrupo")] GruposS gruposS)
+        public async Task<IActionResult> Create([Bind("IdGrupo,TipoGrupo,NombreGrupo")] GruposS gruposS)
         {
             if (ModelState.IsValid)
             {
@@ -85,7 +85,7 @@ namespace SOCIALCRUD3.Controllers
         // more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Edit(int id, [Bind("IdGrupo,TipoGrupo")] GruposS gruposS)
+        public async Task<IActionResult> Edit(int id, [Bind("IdGrupo,TipoGrupo,NombreGrupo")] GruposS gruposS)
         {
             if (id != gruposS.IdGrupo)
             {
